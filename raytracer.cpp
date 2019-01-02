@@ -1,4 +1,4 @@
-#include <stdlib.h> // card > pixar.ppm
+#include <stdlib.h> // card > new_years_2019.ppm
 #include <stdio.h>
 #include <math.h>
 #define R return
